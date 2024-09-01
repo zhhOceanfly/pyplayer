@@ -1,0 +1,31 @@
+                ╔═══════════════╗
+                ║       安卓源码服务专家       ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║    http://www.javaapk.com    ║            ║
+  ║            ╚═══════════════╝            ║
+　║                                                          ║
+　║JavaApk声明：                                             ║
+  ║   1) 本站不保证所提供软件或程序的完整性和安全性。        ║
+  ║   2) 转载本站提供的资源请勿删除本说明文件。              ║
+  ║   3) 本站源码为网上搜集或网友提供，如果涉及或侵害到您的版║
+  ║      权，请立即通知我们。                                ║
+  ║   4) 本站提供免费代码只可供研究学习使用，切勿用于商业用途║
+  ║      由此引起一切后果与本站无关。                        ║
+  ║   5) 商业源码请在源码授权范围内进行使用！                ║
+　║                                                          ║
+  ║           JavaApk —— 安卓源码服务专家                  ║
+  ║           联系方式 : javaapk@qq.com                      ║
+  ║    ╔═══════════════════════╗    ║
+  ╚══╣    安卓源码专业站 http://www.JavaApk.com     ╠══╝
+        ╚═══════════════════════╝
+
+源码简介:
+本项目是一套安卓初学者开发的音乐播放器项目，模仿的本站的这个项目<a href="http://javaapk.com/source/82.html" target="_blank"></a>项目带有10篇详细的pdf开发文档，包括界面设计、和功能代码的实现。做毕业设计或者找工作的时候作为一个练手小项目写到简历上。因为本项目作者是初学者，歌词显示，歌手照片在线下载，管理播放列表，反馈模块部分还没有做
+涉及模块&技术
+文件扫描
+背景播放
+后台服务
+进度控制
+换肤功能
+重力甩歌
+...

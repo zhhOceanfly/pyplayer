@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GL音乐</string>
+     <string name="dialog_messenge">你确定要离开我吗？</string>
+	<string name="about_title">关于</string>
+  <string name="menu_settings">设置</string>
+	 <string name="skin_settings">皮肤设置</string>
+	  <string name="menu_exit_txt">退出</string>
+    <string name="oftenuse">常用</string>
+    <string name="cancel">取消</string>
+    <string  name="confrim">确定</string>
+        <string name="back_message">反馈</string>
+    <string name="info">亲爱的:</string>
+    <string name="menu_time_txt">甩甩暂停</string>
+    <string name="menu_time_txt1">甩甩切歌</string>
+    <string name="default_title_name">欢迎加入GL音乐</string>  
+ 	<string name="about_title_name">关于GL音乐</string>
+ 	<string name="what_say">写在前面：\n用了那么久你肯定有点感受吧！感觉不错就赞一下，感觉还有不足就告诉我，发到我邮箱里吧~ 请打开网络，几KB而已，非常感谢您的反馈！我会努力做得更好！</string>	
+ 	<string name="about_content">
+	GL音乐for Android\n
+	版本号:GL1.0.0\n\n
+	新增功能：\n\n
+	1、新增个性换肤\n
+	2、新增2种趣味甩歌功能\n
+	3、新增歌曲专辑照片\n
+	4、新增新功能展示模块\n
+	5、优化了UI设计\n
+	
+	
+	温馨提示:\n
+	GL音乐为免费软件,不对用户收取任何费用,在使用过程中不涉及网络流量,敬请放心.\n\n
+	知识产权声明:\n\n
+	GL音乐高度重视网络传播中的知识产权保护,遵守中国各项知识产权法律.法规和具有约束力的
+	规范性文件,积极配合遏制盗版.本软件,旨在技术交流,不作商业用途.\n
+	GL音乐作者QQ:\n1015121748\n
+	GL音乐网站:\n还未开放\n
+	GL音乐博客:\n
+	http://blog.csdn.net/google_acmer/\n
+	作者注：\n\n
+	由于歌词显示必须以特定格式才能读取，考虑到每个人的歌词格式都是不同的，没法做到统一提取。
+	而且我没有自己的网站，网上大部分音乐网站接口又都是加密的，
+	所以我就放弃了歌词显示模块。另外，歌手照片那个，只能读取歌曲
+	本身带的专辑照片，没办法从网上下载，如果想看图片就下载那种带
+	专辑照片的歌吧。还有由于QQ邮箱域名服务器光验证错误，所以登陆
+	不上邮箱，为此，反馈模块暂时不能用，我会尽快修复的。尽请谅解！
+	如果您真的喜欢这个软件，可以QQ或者邮箱与我联系，我们可以一起探讨。
+	谢谢您的使用！
+ 	</string>  
+    
+    
+</resources>
